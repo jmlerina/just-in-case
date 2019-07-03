@@ -1,0 +1,2 @@
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\AdaptiveCardsUWP\obj\x64\Release\AdaptiveCards.csprojAssemblyReference.cache
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\AdaptiveCardsUWP\obj\x64\Release\AdaptiveCards.csproj.CoreCompileInputs.cache

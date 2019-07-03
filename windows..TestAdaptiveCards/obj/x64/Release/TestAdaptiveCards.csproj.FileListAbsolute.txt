@@ -1,0 +1,7 @@
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\TestAdaptiveCards.csprojAssemblyReference.cache
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\App.g.i.cs
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\App.g.cs
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\XamlTypeInfo.g.cs
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\App.xaml
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\App.xbf
+C:\Users\LIS\Desktop\AdaptiveCards-Tudo\TestAdaptiveCards\windows\TestAdaptiveCards\obj\x64\Release\XamlSaveStateFile.xml
